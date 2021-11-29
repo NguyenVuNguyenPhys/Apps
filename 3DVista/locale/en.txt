@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_D4B227DC_DE67_F80C_41B3_12579E84DFA0.label = CAM 01_WM
+panorama_D7F786E4_DE67_183C_41E7_93940F24FFFB.label = CAM 03_WM
